@@ -14,7 +14,7 @@
 📌 **Latest Projects:**  
 - [📊 Customer Orders Dashboard](https://github.com/DesislavaSGeorgieva/customer-orders-dashboard)  
 - [📚 Book Lookup (JavaScript + SQL UI)](https://github.com/DesislavaSGeorgieva/book-lookup-js-sql)
-- [📚 First-Pandas-Jupyter-Notebook-Demo)](https://github.com/DesislavaSGeorgieva/First-Pandas-Jupyter-Notebook-Demo)
+- [📚 First-Pandas-Jupyter-Notebook-Demo](https://github.com/DesislavaSGeorgieva/First-Pandas-Jupyter-Notebook-Demo)
 - [📚 Art-museum-covid-sql-analysis](https://github.com/DesislavaSGeorgieva/art-museum-covid-sql-analysis)
 
 📄 [View my CV](https://github.com/DesislavaSGeorgieva/book-lookup-js-sql/blob/main/Desislava_Georgieva_CV.pdf)
