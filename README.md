@@ -5,8 +5,7 @@
 
 🛠️ **Key Skills:**  
 - SQL, Databases  
-- Data Analysis  
-- JavaScript (in progress)  
+- Data Analysis   
 - HTML/CSS  
 - Microsoft Excel  
 - Google Analytics  
