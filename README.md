@@ -1,14 +1,24 @@
 # 👋 Hello, I'm Desislava Georgieva!
 
-🎓 I hold a PhD in Art History, but I've made a bold pivot into the world of data and technology.  
-💻 I'm currently building projects with SQL, JavaScript, and HTML/CSS, all available here on my GitHub.
+🎓 I hold a PhD in Art History and I'm currently expanding into digital art history and data-driven analysis, combining domain expertise with basic-to-intermediate skills in Python, SQL, and data visualization tools.
 
-🛠️ **Key Skills:**  
-- SQL, Databases  
-- Data Analysis   
-- HTML/CSS  
-- Microsoft Excel  
-- Google Analytics  
+My research interests include the intersection of art history and digital methodologies, with a focus on data-informed approaches to visual culture, structured analysis of artworks, and the application of computational tools to support scholarly inquiry and interpretation. 
+
+I am passionate about bridging art history and data, with a strong focus on visual cognition, categorization, and analytical consistency.
+
+
+🛠️ **Key Skills:**    
+- Art Historical Analysis
+- Data Visualization
+- SQL 
+- Python
+- Pandas
+- Databases
+- Metadata Structuring
+- Visual Classification
+- Image Annotation
+- Jupyter Notrbook 
+ 
 
 📌 **Latest Projects:**  
 - [📊 impressionism-vs-cubism-data-analysis]([https://github.com/DesislavaSGeorgieva/impressionism-vs-cubism-data-analysis]) 
@@ -17,10 +27,10 @@
 - [📚 First-Pandas-Jupyter-Notebook-Demo](https://github.com/DesislavaSGeorgieva/First-Pandas-Jupyter-Notebook-Demo)
 - [📚 Art-museum-covid-sql-analysis](https://github.com/DesislavaSGeorgieva/art-museum-covid-sql-analysis)
 
+
 📄 [View my CV](https://github.com/DesislavaSGeorgieva/book-lookup-js-sql/blob/main/Desislava_Georgieva_CV.pdf)
+
 
 📫 Let's connect!  
 - [LinkedIn](https://www.linkedin.com/in/desislava-s-georgieva/)  
 - strahilovaart@gmail.com
-
-💌 I'm open to remote opportunities in data analysis, SQL, or junior development!
