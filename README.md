@@ -28,7 +28,7 @@ I am passionate about bridging art history and data, with a strong focus on visu
 - [📚 Art-museum-covid-sql-analysis](https://github.com/DesislavaSGeorgieva/art-museum-covid-sql-analysis)
 
 
-📄 [View my CV](https://github.com/DesislavaSGeorgieva/book-lookup-js-sql/blob/main/Desislava_Georgieva_CV.pdf)
+📄 [View my CV](file:///C:/Users/USER/OneDrive/Desktop/Desislava_Georgieva_CV.pdf)
 
 
 📫 Let's connect!  
