@@ -11,6 +11,7 @@
 - Google Analytics  
 
 📌 **Latest Projects:**  
+- [📊 impressionism-vs-cubism-data-analysis]([https://github.com/DesislavaSGeorgieva/impressionism-vs-cubism-data-analysis]) 
 - [📊 Customer Orders Dashboard](https://github.com/DesislavaSGeorgieva/customer-orders-dashboard)  
 - [📚 Book Lookup (JavaScript + SQL UI)](https://github.com/DesislavaSGeorgieva/book-lookup-js-sql)
 - [📚 First-Pandas-Jupyter-Notebook-Demo](https://github.com/DesislavaSGeorgieva/First-Pandas-Jupyter-Notebook-Demo)
