@@ -21,14 +21,14 @@ I am passionate about bridging art history and data, with a strong focus on visu
  
 
 📌 **Latest Projects:**  
-- [📊 impressionism-vs-cubism-data-analysis]([https://github.com/DesislavaSGeorgieva/impressionism-vs-cubism-data-analysis]) 
+- [📊 impressionism-vs-cubism-data-analysis]([https://github.com/DesislavaSGeorgieva/impressionism-vs-cubism-data-analysis) 
 - [📊 Customer Orders Dashboard](https://github.com/DesislavaSGeorgieva/customer-orders-dashboard)  
 - [📚 Book Lookup (JavaScript + SQL UI)](https://github.com/DesislavaSGeorgieva/book-lookup-js-sql)
 - [📚 First-Pandas-Jupyter-Notebook-Demo](https://github.com/DesislavaSGeorgieva/First-Pandas-Jupyter-Notebook-Demo)
 - [📚 Art-museum-covid-sql-analysis](https://github.com/DesislavaSGeorgieva/art-museum-covid-sql-analysis)
 
 
-📄 [View my CV](https://1drv.ms/b/c/449aa745568c36c9/IQChX3WPzuFNSq3tScA4inOcARn7CyWJ6afuUixXjRzAims?e=l1W6ZB))
+📄 [View my CV](https://1drv.ms/b/c/449aa745568c36c9/IQChX3WPzuFNSq3tScA4inOcARn7CyWJ6afuUixXjRzAims?e=l1W6ZB)
 
 
 📫 Let's connect!  
