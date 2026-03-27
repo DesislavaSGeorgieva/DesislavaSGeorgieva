@@ -20,6 +20,6 @@
 
 📫 Let's connect!  
 - [LinkedIn](https://www.linkedin.com/in/desislava-s-georgieva/)  
-- desislava.strahilova.georgieva@gmail.com
+- strahilovaart@gmail.com
 
 💌 I'm open to remote opportunities in data analysis, SQL, or junior development!
