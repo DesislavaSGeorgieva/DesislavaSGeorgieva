@@ -1,34 +1,30 @@
-# 👋 Hello, I'm Desislava Georgieva!
+# 👋 Hello, I'm Dr. Desislava Georgieva
 
-🎓 I hold a PhD in Art History and I'm currently expanding into digital art history and data-driven analysis, combining domain expertise with basic-to-intermediate skills in Python, SQL, and data visualization tools.
+I am a PhD-trained Art Historian specializing in post-Byzantine iconography, currently developing computational workflows to transform complex cultural heritage materials into machine-readable datasets. My work operates at the intersection of classical visual analysis, semantic data modeling, and computer vision processing.
 
-My research interests include the intersection of art history and digital methodologies, with a focus on data-informed approaches to visual culture, structured analysis of artworks, and the application of computational tools to support scholarly inquiry and interpretation. 
+### 🔬 Research Specialization
+- **Domain Expertise:** Post-Byzantine Christian Art, Theological Visual Architectures, and Iconography.
+- **Computational Stack:** Digital asset parsing with Python, database engineering using SQL, exploratory data analysis via Pandas, and structural image transformation utilizing OpenCV pipelines (CLAHE, histogram optimization).
+- **Open Science Frameworks:** Structuring metadata compliant with CIDOC CRM schemas and archiving reproducible workflows in line with European FAIR data standards.
 
-I am passionate about bridging art history and data, with a strong focus on visual cognition, categorization, and analytical consistency.
+---
 
+### 📂 Core Research Repositories
 
-🛠️ **Key Skills:**    
-- Art Historical Analysis
-- Data Visualization
-- SQL 
-- Python
-- Pandas
-- Databases
-- Metadata Structuring
-- Visual Classification
-- Image Annotation
-- Jupyter Notrbook 
- 
+#### 🖼️ [Samokov Art Analysis & Computer Vision Pipeline](https://github.com)
+* **The Core:** An open-access pipeline mapping the regional visual language of the Samokov Iconographic School. 
+* **The Tech:** Deploys OpenCV architectures (`cv2.createCLAHE`) to enhance structural boundaries on visually degraded icons, alongside statistical attribute distribution modeling via Pandas and Matplotlib.
 
-📌 **Latest Projects:**  
-- [📊 Samokov-Art-Analysis](https://github.com/DesislavaSGeorgieva/Samokov-Art-Analysis) 
-- [📊 impressionism-vs-cubism-data-analysis](https://github.com/DesislavaSGeorgieva/impressionism-vs-cubism-data-analysis) 
-- [📚 Art-museum-covid-sql-analysis](https://github.com/DesislavaSGeorgieva/art-museum-covid-sql-analysis)
+#### 📊 [From Light to Structure: Impressionism vs. Cubism Analytical Framework](https://github.com)
+* **The Core:** A comparative visualization infrastructure analyzing spatial and temporal transitions across foundational modern art movements.
+* **The Tech:** Built utilizing Python pipelines, structured relational datasets, and dynamic visualization arrays to map geographical distribution variances.
 
+#### 🏛️ [Art Museum Metrics & Cultural Management Database Engineering](https://github.com)
+* **The Core:** A relational database system mapping visitor behavioral profiles across pre-, peri-, and post-pandemic epochs at major cultural heritage institutions.
+* **The Tech:** Comprehensive relational layout featuring custom normalization schemas, entity-relationship tracking (ERDs), and execution-ready SQL analytical scripts.
 
-📄 [View my CV](https://1drv.ms/b/c/449aa745568c36c9/IQChX3WPzuFNSq3tScA4inOcARn7CyWJ6afuUixXjRzAims?e=l1W6ZB)
+---
 
-
-📫 Let's connect!  
-- [LinkedIn](https://www.linkedin.com/in/desislava-s-georgieva/)  
-- strahilovaart@gmail.com
+### 📬 Connect With Me
+* 🏛️ [Professional LinkedIn Network](https://linkedin.com)
+* 📧 [Academic & Research Inquiry](mailto:strahilovaart@gmail.com)
