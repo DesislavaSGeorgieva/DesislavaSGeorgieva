@@ -11,15 +11,15 @@ I am a PhD-trained Art Historian specializing in post-Byzantine iconography, cur
 
 ### 📂 Core Research Repositories
 
-#### 🖼️ [Samokov Art Analysis & Computer Vision Pipeline](https://github.com)
+#### 🖼️ [Samokov Art Analysis & Computer Vision Pipeline](https://github.com/DesislavaSGeorgieva/Samokov-Art-Analysis)
 * **The Core:** An open-access pipeline mapping the regional visual language of the Samokov Iconographic School. 
 * **The Tech:** Deploys OpenCV architectures (`cv2.createCLAHE`) to enhance structural boundaries on visually degraded icons, alongside statistical attribute distribution modeling via Pandas and Matplotlib.
 
-#### 📊 [From Light to Structure: Impressionism vs. Cubism Analytical Framework](https://github.com)
+#### 📊 [From Light to Structure: Impressionism vs. Cubism Analytical Framework](https://github.com/DesislavaSGeorgieva/impressionism-vs-cubism-data-analysis)
 * **The Core:** A comparative visualization infrastructure analyzing spatial and temporal transitions across foundational modern art movements.
 * **The Tech:** Built utilizing Python pipelines, structured relational datasets, and dynamic visualization arrays to map geographical distribution variances.
 
-#### 🏛️ [Art Museum Metrics & Cultural Management Database Engineering](https://github.com)
+#### 🏛️ [Art Museum Metrics & Cultural Management Database Engineering](https://github.com/DesislavaSGeorgieva/art-museum-covid-sql-analysis)
 * **The Core:** A relational database system mapping visitor behavioral profiles across pre-, peri-, and post-pandemic epochs at major cultural heritage institutions.
 * **The Tech:** Comprehensive relational layout featuring custom normalization schemas, entity-relationship tracking (ERDs), and execution-ready SQL analytical scripts.
 
