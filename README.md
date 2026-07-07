@@ -1,11 +1,22 @@
 # 👋 Hello, I'm Dr. Desislava Georgieva
+### Digital Art Historian | Computer Vision & Cultural Heritage Researcher
 
 I am a PhD-trained Art Historian specializing in post-Byzantine iconography, currently developing computational workflows to transform complex cultural heritage materials into machine-readable datasets. My work operates at the intersection of classical visual analysis, semantic data modeling, and computer vision processing.
+
+My core research specialization is **Sacred Temporality** - specifically operationalizing the theological concepts of time (*Kairos* vs. *Chronos*) into measurable visual structures utilizing Python and OpenCV.
+
+---
 
 ### 🔬 Research Specialization
 - **Domain Expertise:** Post-Byzantine Christian Art, Theological Visual Architectures, and Iconography.
 - **Computational Stack:** Digital asset parsing with Python, database engineering using SQL, exploratory data analysis via Pandas, and structural image transformation utilizing OpenCV pipelines (CLAHE, histogram optimization).
 - **Open Science Frameworks:** Structuring metadata compliant with CIDOC CRM schemas and archiving reproducible workflows in line with European FAIR data standards.
+
+---
+
+### 📑 Open Science Publications (Zenodo Permanently Archived)
+*   **[Technical Report]** *Preliminary Image Enhancement Framework for Post-Byzantine Iconography Using Contrast Limited Adaptive Histogram Equalization (CLAHE).* **[Forthcoming / In Progress]**
+*   **[Theoretical Working Paper]** *The Visual Chronotypes of Christian Art: A Theoretical Framework for the Computational Analysis of Sacred Temporality.* **[Forthcoming / In Progress]**
 
 ---
 
