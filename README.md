@@ -16,7 +16,7 @@ My core research specialization is **Sacred Temporality** - specifically operati
 
 ### 📑 Open Science Publications (Zenodo Permanently Archived)
 *   **[Technical Report]** *Preliminary Image Enhancement Framework for Post-Byzantine Iconography Using Contrast Limited Adaptive Histogram Equalization (CLAHE).* **[Forthcoming / In Progress]**
-*   **[Theoretical Working Paper]** *The Visual Chronotypes of Christian Art: A Theoretical Framework for the Computational Analysis of Sacred Temporality.* **[Forthcoming / In Progress]**
+*   **[Theoretical Working Paper]** *Visual Chronotypes of Christian Art: Operationalizing Sacred Temporality.* **[https://doi.org/10.5281/zenodo.21297721, DOI 10.5281/zenodo.21297720]**
 
 ---
 
