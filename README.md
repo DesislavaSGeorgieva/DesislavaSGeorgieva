@@ -40,4 +40,5 @@ My core research specialization is **Sacred Temporality** - specifically operati
 
 ### 📬 Connect With Me
 * 🏛️ [Professional LinkedIn Network](https://linkedin.com)
-* 📧 [Academic & Research Inquiry](mailto:strahilovaart@gmail.com)
+* 📧 [Academic & Research Inquiry](mailto:strahilovaart@gmail.com)     
+* 🏛️ [ORCHID](https://orcid.org/0009-0003-9186-7979)
